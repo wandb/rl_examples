@@ -11,6 +11,6 @@ This repository contains examples that show how to train LLMs with reinforcement
 
 ## Examples
 
-| Sno | Framework |                                                  | Colab |
-| ---:|-----------|--------------------------------------------------|-------|
-| 1   | TRL       | Post-training `Qwen2.5` On NuminaMath Dataset    |       |
+| Sno | Framework |                                                                                          |            |
+| ---:|-----------|------------------------------------------------------------------------------------------|------------|
+| 1   | TRL       | [Post-training `Qwen2.5` On NuminaMath Dataset](./trl_examples/numinamath_grpo.ipynb)    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb)       |
