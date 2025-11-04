@@ -6,3 +6,11 @@ This repository contains examples that show how to train LLMs with reinforcement
 - Use `Weave` with popular frameworks like `TRL`, `verl`, `OpenPipe`, and `verifiers`
 - Use the `OpenPipe` serverless API to train models calls without hosting your own stack
 - Build and test agents with open models using RL, with repeatable logs and evals
+
+---
+
+## Examples
+
+| Sno | Framework |                                                  | Colab |
+| ---:|-----------|--------------------------------------------------|-------|
+| 1   | TRL       | Post-training `Qwen2.5` On NuminaMath Dataset    |       |
